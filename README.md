@@ -4,7 +4,7 @@
 
 Implement the figma design [link](https://www.figma.com/file/bl6XBzP1OsszX4YXIgNxHu/Frontend-developer---hiring---test?type=design&node-id=0%3A1&mode=design&t=aglLKulCtja4AOS3-1) using tailwind-css, typescript and react. 
 
-- Deployed URL: 
+- Deployed URL: [prop-accel-frontend-task.vercel.app](https://prop-accel-frontend-task.vercel.app/)
 - YouTube Video Link: 
 
 ## 💻 Tech Stack
